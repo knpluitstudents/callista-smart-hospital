@@ -230,9 +230,9 @@ with st.form("triage_form"):
         hypertension = st.checkbox("High Blood Pressure")
     with ch2:
         heart_disease = st.checkbox("Heart Disease")
-    with ch3
+    with ch3:
         asthma = st.checkbox("Asthma")
-        
+
     st.markdown("<br>", unsafe_allow_html=True)
 
     # Section 5 — Patient Info
