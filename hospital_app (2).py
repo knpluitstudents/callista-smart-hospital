@@ -188,7 +188,7 @@ with st.form("triage_form"):
     # TODO (text/color): replace CODENO17 and COLOR4.
     st.markdown("""
     <!-- COLOR4 -->
-    <div style="background:#dcffb7;border:1px solid #31422b;border-radius:14px;
+    <div style="background:#3d7ab7;border:1px solid #31422b;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#334c2f;color:rgb(255, 255, 255);border-radius:8px;
@@ -202,7 +202,7 @@ with st.form("triage_form"):
     #   temperature_level 
     #   heart_rate_level
     # Variable names must be EXACTLY: temperature_level, heart_rate_level
-
+    
 
     st.markdown("<br>", unsafe_allow_html=True)
 
