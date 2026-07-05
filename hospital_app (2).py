@@ -217,7 +217,7 @@ with st.form("triage_form"):
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#a78153;color:white;border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">4</span>
-            <span style="font-size:16px;font-weight:600;color:#ffffff;">Do you have any of the following?</span>
+            <span style="font-size:16px;font-weight:600;color:#8a6934;">Do you have any of the following?</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
