@@ -191,9 +191,9 @@ with st.form("triage_form"):
     <div style="background:#3d7ab7;border:1px solid #31422b;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-            <span style="background:#334c2f;color:rgb(255, 255, 255);border-radius:8px;
+            <span style="background:#4b61a7;color:rgb(255, 255, 255);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">3</span>
-            <span style="font-size:16px;font-weight:600;color:#3b5324;">How would you rate the severity?</span>
+            <span style="font-size:16px;font-weight:600;color:#ffffff;">How would you rate the severity?</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
