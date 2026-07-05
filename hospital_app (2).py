@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import os
 
-st.set_page_config(page_title="🏥 Smart Hospital 🏥", page_icon="🏥", layout="wide")
+st.set_page_config(page_title="Smart Hospital", page_icon="🏥", layout="wide")
 
 st.markdown("""
 <style>
@@ -99,7 +99,7 @@ st.markdown("""
     </div>
     <div style="font-size:36px;font-weight:700;color:#ffffff;margin-bottom:12px;
                 letter-spacing:-0.02em;">
-        Smart Hospital Patient Navigator
+        🏥 Smart Hospital Patient Navigator 🏥
     </div>
     <div style="font-size:18px;color:rgba(255,255,255,0.85);font-weight:400;">
         Find the Right Department for Your Symptoms
