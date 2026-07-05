@@ -165,7 +165,7 @@ with st.form("triage_form"):
     <div style="background:#8ed3c0;border:1px solid #81d9bc;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-            <span style="background:hsl(157, 100%, 80%);color:rgb(164, 218, 213);border-radius:8px;
+            <span style="background:hsl(157, 100%, 80%);color:rgb(37, 49, 48);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">2</span>
             <span style="font-size:16px;font-weight:600;color:#31473d;">How long have you had these symptoms?</span>
         </div>
