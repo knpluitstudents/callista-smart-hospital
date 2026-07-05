@@ -239,10 +239,10 @@ with st.form("triage_form"):
     # TODO (text/color): replace CODENO24 and COLOR6.
     st.markdown("""
     <!-- COLOR6 -->
-    <div style="background:#4fb4a0;border:1px solid #2b6c5a;border-radius:14px;
+    <div style="background:#acf1e3;border:1px solid #39695b;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-            <span style="background:#31706b;color:rgb(255, 255, 255);border-radius:8px;
+            <span style="background:#31703f;color:rgb(255, 255, 255);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">5</span>
             <span style="font-size:16px;font-weight:600;color:#ffffff;">Patient Information</span>
         </div>
