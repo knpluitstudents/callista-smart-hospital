@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import os
 
-st.set_page_config(page_title="CODENO1", page_icon="🏥", layout="wide")
+st.set_page_config(page_title="Smart Hospital", page_icon="🏥", layout="wide")
 
 st.markdown("""
 <style>
