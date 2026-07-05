@@ -207,6 +207,7 @@ with st.form("triage_form"):
         temperature_level = st.selectbox("Temperature", options=list(temp_map.keys()), index=1)
     with col_hr:
         heart_rate = st.selectbox("Heart Rate", options=list(hr_map.keys()), index=1)
+        
     # Section 4 — Medical History
     # TODO (text/color): replace CODENO20 and COLOR5.
     st.markdown("""
