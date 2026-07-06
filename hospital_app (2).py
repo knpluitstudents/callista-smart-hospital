@@ -58,17 +58,17 @@ DEPT_INFO = {
     'Respiratory Medicine': {
         'icon':'🫁','color':'#0284c7','bg':'#e0f2fe','border':'#7dd3fc',
         'desc':'Specializes in conditions affecting the lungs and airways.',
-        'next':['Visit Level 2','Estimated wait: 10-20 min','Please wear a mask']
+        'next':['Visit Level 2','Estimated wait: 10-20 min','Please wear a mask.']
     },
     'Cardiology': {
         'icon':'❤️','color':'#dc2626','bg':'#fee2e2','border':'#fca5a5',
         'desc':'Specializes in heart and cardiovascular conditions',
-        'next':['Visit Level 3, Wing C','Estimated wait: 20-30 min','Bring any previous ECG reports']
+        'next':['Visit Level 3, Wing C','Estimated wait: 20-30 min','Bring any previous ECG reports.']
     },
     'Gastroenterology': {
         'icon':'🫃','color':'#d97706','bg':'#fef3c7','border':'#fcd34d',
         'desc':'Specializes in digestive system and abdominal conditions',
-        'next':['Visit Level , Wing B','Estimated wait: 10-20 min','Avoid eating before consultation']
+        'next':['Visit Level , Wing B','Estimated wait: 10-20 min','Avoid eating before consultation.']
     },
     'Neurology': {
         'icon':'🧠','color':'#7c3aed','bg':'#ede9fe','border':'#c4b5fd',
