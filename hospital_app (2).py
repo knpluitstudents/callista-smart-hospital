@@ -283,6 +283,15 @@ if submitted:
         'chief_complaint' : cc_map.get(chief_complaint, 9)
     }])
 
+    patient_scaled = patient.copy()
+    patient_scaled[cols_to_scale] = scaler.transform(patient[cols_to_scale])
+
+    pred = model.predict(patient_scaled[features])[0]
+    proba = model.predict_proba(patient_scaled[features])[0]
+    dept_name = dept_map_inv[pred]
+    confidence = proba[pred]*100
+    info = DEPT_INFO[dept_name]
+
     # TODO (logic — core of Day 2): everything from here down to before
     # "st.markdown('---')" is for you to write. Steps:
     #
