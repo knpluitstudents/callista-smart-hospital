@@ -68,7 +68,7 @@ DEPT_INFO = {
     'Gastroenterology': {
         'icon':'🫃','color':'#d97706','bg':'#fef3c7','border':'#fcd34d',
         'desc':'Specializes in digestive system and abdominal conditions.',
-        'next':['Visit Level , Wing B','Estimated wait: 10-20 min','Avoid eating before consultation']
+        'next':['Visit Level 2, Wing B','Estimated wait: 10-20 min','Avoid eating before consultation']
     },
     'Neurology': {
         'icon':'🧠','color':'#7c3aed','bg':'#ede9fe','border':'#c4b5fd',
@@ -77,12 +77,12 @@ DEPT_INFO = {
     },
     'General Medicine': {
         'icon':'🩺','color':'#059669','bg':'#d1fae5','border':'#6ee7b7',
-        'desc':'CODENO37',
-        'next':['CODE','CODE','CODE']
+        'desc':'Handles general health concerns and non specialist conditions. ',
+        'next':['Visit Level 1, Wing A','Estimated wait: 10-15 min','Registration desk is open 24/7']
     },
     'Dermatology': {
         'icon':'🔬','color':'#b45309','bg':'#fef9c3','border':'#fde68a',
-        'desc':'CODENO38',
+        'desc':'Specializes in conditions. ',
         'next':['CODE','CODE','CODE']
     },
 }
