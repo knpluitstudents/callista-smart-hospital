@@ -271,7 +271,7 @@ if submitted:
         'chest_pain' : int(chest_pain),
         'stomach_pain' : int(stomach_pain),
         'shortness_breath' : int(shortness_breath),
-        'nausea_vomitng' : int(nausea_vomiting),
+        'nausea_vomiting' : int(nausea_vomiting),
         'dizziness' : int(dizziness),
         'skin_rash' : int(skin_rash),
         'temperature_level' : temp_map.get(temperature_level, 1),
