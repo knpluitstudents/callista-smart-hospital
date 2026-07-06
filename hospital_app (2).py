@@ -358,7 +358,7 @@ if submitted:
             {steps_html}
             <div style="margin-top:20px;padding:12px 16px;background:rgba(0,0,0,0.05);
                         border-radius:10px;font-size:12px;color:#6b7280;line-height:1.5;">
-                ⚠️ CODENO30
+                ⚠️ This is an AI suggestion
             </div>
         </div>
         """, unsafe_allow_html=True)
