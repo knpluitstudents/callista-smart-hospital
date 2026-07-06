@@ -62,8 +62,8 @@ DEPT_INFO = {
     },
     'Cardiology': {
         'icon':'❤️','color':'#dc2626','bg':'#fee2e2','border':'#fca5a5',
-        'desc':'CODENO34',
-        'next':['CODE','CODE','CODE']
+        'desc':'Specializes in heart and cardiovascular conditions',
+        'next':['Visit Level 3','Wing C','Estimated wait: 20-30 min,'Bring any previous ECG reports']
     },
     'Gastroenterology': {
         'icon':'🫃','color':'#d97706','bg':'#fef3c7','border':'#fcd34d',
