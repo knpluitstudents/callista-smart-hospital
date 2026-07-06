@@ -132,7 +132,7 @@ with st.form("triage_form"):
     # One example line (feel free to copy the pattern for the rest, just change
     # the label & emoji):
     #   with c1:
-    #       fever = st.checkbox("🌡️  Fever")
+    #       fever = st.checkbox("🌡️ Fever")
     #
     # Reference layout (you can change it, but the variables above are REQUIRED):
     #   c1, c2, c3, c4 = st.columns(4)
@@ -141,7 +141,7 @@ with st.form("triage_form"):
 
     c1, c2, c3, c4 = st.columns(4)
     with c1:
-        fever = st.checkbox("Fever")
+        fever = st.checkbox("🌡️ Fever")
         cough = st.checkbox("Cough")
     with c2:
         headache = st.checkbox("Headache")
