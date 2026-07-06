@@ -403,7 +403,7 @@ if submitted:
             <!-- COLOR7 -->
             <div style="margin-top:20px;background:#e90ee9;border:1px solid #ff0505;
                         border-radius:10px;padding:12px 14px;font-size:12px;color:#1af250;">
-                <strong>Model:</strong>CODENO32<br>
+                <strong>Model:</strong>KNN - 102.000 patient  - 99.5% accuracy<br>
                 <strong>Powered by:</strong> Future Classroom ML
             </div>
         </div>
