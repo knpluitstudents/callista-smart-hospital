@@ -65,7 +65,7 @@ DEPT_INFO = {
         'desc':'CODENO34',
         'next':['CODE','CODE','CODE']
     },
-    'Gastroentrology': {
+    'Gastroenterology': {
         'icon':'🫃','color':'#d97706','bg':'#fef3c7','border':'#fcd34d',
         'desc':'CODENO35',
         'next':['CODE','CODE','CODE']
