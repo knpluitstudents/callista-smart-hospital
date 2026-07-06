@@ -55,32 +55,32 @@ cc_map        = bundle['cc_map']
 
 
 DEPT_INFO = {
-    'DEPT': {
+    'Respiratory Medicine': {
         'icon':'🫁','color':'#0284c7','bg':'#e0f2fe','border':'#7dd3fc',
         'desc':'CODENO33',
         'next':['CODE','CODE','CODE']
     },
-    'DEPT': {
+    'Cardiology': {
         'icon':'❤️','color':'#dc2626','bg':'#fee2e2','border':'#fca5a5',
         'desc':'CODENO34',
         'next':['CODE','CODE','CODE']
     },
-    'DEPT': {
+    'Gastroentrology': {
         'icon':'🫃','color':'#d97706','bg':'#fef3c7','border':'#fcd34d',
         'desc':'CODENO35',
         'next':['CODE','CODE','CODE']
     },
-    'DEPT': {
+    'Neurology': {
         'icon':'🧠','color':'#7c3aed','bg':'#ede9fe','border':'#c4b5fd',
         'desc':'CODENO36',
         'next':['CODE','CODE','CODE']
     },
-    'DEPT': {
+    'General Medicine': {
         'icon':'🩺','color':'#059669','bg':'#d1fae5','border':'#6ee7b7',
         'desc':'CODENO37',
         'next':['CODE','CODE','CODE']
     },
-    'DEPT': {
+    'Dermatology': {
         'icon':'🔬','color':'#b45309','bg':'#fef9c3','border':'#fde68a',
         'desc':'CODENO38',
         'next':['CODE','CODE','CODE']
