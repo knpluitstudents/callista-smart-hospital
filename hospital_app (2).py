@@ -72,8 +72,8 @@ DEPT_INFO = {
     },
     'Neurology': {
         'icon':'🧠','color':'#7c3aed','bg':'#ede9fe','border':'#c4b5fd',
-        'desc':'CODENO36',
-        'next':['CODE','CODE','CODE']
+        'desc':'Specialzizes in brain, spine, and nervous system conditions. a',
+        'next':['Visit Level 4','Estimated wait: 25-35 min','Bring list of current medications']
     },
     'General Medicine': {
         'icon':'🩺','color':'#059669','bg':'#d1fae5','border':'#6ee7b7',
